@@ -18,7 +18,7 @@ topic-name/
 <!-- Add your topic directories here as you create them -->
 
 - [git --force Vs --force-with-lease](./git/force-and-force-with-lease.md) -  TIL the difference between `--force` and `--force-with-lease`
-
+- [ssh Automatically load you ssh keys to Agent](./ssh/ssh-agent-config.md) - TIL how to load your ssh key automatically to the agent
 
 ## Usage
 
