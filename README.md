@@ -17,9 +17,12 @@ topic-name/
 
 <!-- Add your topic directories here as you create them -->
 
-- [git --force Vs --force-with-lease](./git/force-and-force-with-lease.md) -  TIL the difference between `--force` and `--force-with-lease`
+- [git --force Vs --force-with-lease](./git/force-and-force-with-lease.md) - TIL the difference between `--force` and `--force-with-lease`
 - [ssh Automatically load you ssh keys to Agent](./ssh/ssh-agent-config.md) - TIL how to load your ssh key automatically to the agent
-- [Python job scraping cheatsheet](./python/job-scraping-cheatsheet.md) - TIL how to scrape jobs whithout needing complex authentication
+- [Python job scraping cheatsheet](./python/job-scraping-cheatsheet.md) - TIL how to scrape jobs without needing complex authentication
+- [.gitignore strategies](./git/gitignore-strategies.md) - TIL the best way to use `.gitignore` inside a project
+- [ncdu Clean up Disk Space Interactively](./devops/ncdu-disk-usage.md) - TIL how to visualize and clean disk usage interactively
+
 ## Usage
 
 Each TIL is a standalone markdown file containing:
