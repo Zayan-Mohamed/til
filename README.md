@@ -22,6 +22,8 @@ topic-name/
 - [Python job scraping cheatsheet](./python/job-scraping-cheatsheet.md) - TIL how to scrape jobs without needing complex authentication
 - [.gitignore strategies](./git/gitignore-strategies.md) - TIL the best way to use `.gitignore` inside a project
 - [ncdu Clean up Disk Space Interactively](./devops/ncdu-disk-usage.md) - TIL how to visualize and clean disk usage interactively
+- [Golang Print vs Println vs Printf](./golang/print-println-printf.md) - TIL the differences between print, println, and printf in Go
+<!-- - [Goland Keyboard Shortcuts](./goland/shortcuts.md) - TIL useful keyboard shortcuts in Goland IDE  -->
 
 ## Usage
 
